@@ -1,4 +1,4 @@
-# ArduiTouch-Codelock-ESP32
+# ArduiTouch-Codelock-ESP8266
 Different people asked me for a very simple code example for our ArduiTouch ESP set with out too much additional functions. This is a very simple codelock / keypad example for ArduiTouch ESP with ESP8266 to demonstate the basic graphic and audio features of the ArduiTouch kit.
 
 ![My image](https://user-images.githubusercontent.com/3049858/67164235-93095c00-f378-11e9-956e-67034d070ee8.jpg)
